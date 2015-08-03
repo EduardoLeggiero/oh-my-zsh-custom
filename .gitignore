@@ -1,0 +1,4 @@
+!/.gitignore
+/plugins/example/
+/example.zsh
+/example.zshcache
